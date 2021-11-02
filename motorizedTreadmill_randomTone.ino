@@ -1,5 +1,5 @@
 // motoriezedTreadmill_randomTone.ino
-// Sarah West
+// Sarah West & Erik Johnson
 // 3/9/21
 // Be sure you have the AccelStepper library installed & have included the Arduino Due as a possible board.
 
