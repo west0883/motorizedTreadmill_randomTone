@@ -21,7 +21,7 @@ uint32_t StartTime;
 uint32_t CurrentTime;
 
 // write out what speeds you want to include; ***YOU CAN EDIT THIS***
-static constexpr int allSpeeds[] ={0, 0, 800, 1600};
+static constexpr int allSpeeds[] ={0, 0, 0, 1600, 2400, 3200};
 
 // The amount of time spend at rest at start of recording (ms). Includes 30 seconds that is cut off from scope ramp-up.
 uint32_t StartRestTime = 10000;
