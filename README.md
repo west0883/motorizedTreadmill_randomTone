@@ -7,4 +7,4 @@ This code calls on libraries included in the list of installable libraries avail
 This respository is a work in progress. For questions, problems, or concerns, please email Sarah West at west0883@umn.edu.
 
 Please cite use of this code in any resulting projects or publications as:
-West SL, Johnson EC. (2021). Arduino control of stepper motor for locomotion experiments in mice. Accessed [date accessed]. https://github.com/west0883/treadmill_encoder_pipeline_code
+West SL, Johnson EC. (2021). Arduino control of stepper motor for locomotion experiments in mice. Accessed [date accessed]. https://github.com/west0883/motorizedTreadmill_randomTone
